@@ -1,0 +1,1 @@
+# Zegel_2024-2_Python_OOP
